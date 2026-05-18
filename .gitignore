@@ -1,0 +1,7 @@
+*.py
+*.json
+*.csv
+*.pdf
+*.log
+shapefiles/
+sample_dr2.pdf
